@@ -1,8 +1,5 @@
 ### Hello! 😀
 
-<!--
-**HeathDanni/HeathDanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub!
 My name is Heather, and I am a full stack web developer based in Colorado. 🏔️
 
